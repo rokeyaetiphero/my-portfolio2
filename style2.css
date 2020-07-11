@@ -1,0 +1,177 @@
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.name-highlight
+{
+    color: gray;
+}
+
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;  
+}
+
+.half-width img
+{
+    width: 90%;
+    padding-left: 20px;
+}
+
+h1
+{
+    font-size: 60px;
+}
+
+h2
+{
+    font-size: 50px;
+}
+
+.top-banner
+{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+  ;
+}
+
+section
+{
+    height: 500px;
+    padding-bottom: 100px;
+    width: 100%;
+}
+
+.biography-area
+{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.link-button
+{
+    text-decoration: none;
+    background-image: linear-gradient(pink,purple);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.box img
+{
+    height: 275px;
+    width: 360px;
+    float: left;
+}
+
+#img-id-1
+{
+  
+    padding: 80px 35px 80px 80px;
+}
+
+#img-id-2
+{
+  
+    padding: 80px 35px 80px 10px;
+}
+
+
+#img-id-3
+{
+  
+    padding: 80px 35px 80px 10px;
+}
+
+#work-id
+{
+    text-align: center;
+}
+
+.container
+{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.bruce-moccy
+{
+    text-align: center;
+    width: 50%;
+    margin-left: 350px;
+    
+}
+
+.heroine
+{
+    text-align: center;
+    width: 50%;
+    background-image: linear-gradient(pink,purple);
+    margin-left: 350px;
+    height: 100px;
+    margin-top: 50px;
+    padding-top: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+p{
+    font-size: 15px;
+}
+
+.bottom h2
+{
+    text-align: center;
+}
+
+.load-shedding
+{
+    margin-left: 420px;
+    text-align: center;
+    width: 40%;
+}
+
+#paragraph
+{
+    font-size: 20px;
+}
+
+.bottom
+{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.client
+{
+    width: 60%;
+    margin-left: 280px;
+}
+
+.load-heroine
+{
+    margin: 50px 2px 50px 2px;
+    
+}
+
+.ending
+{
+    text-align: center;
+    margin-top: 130px;
+}
+
+.name-highlight-2
+{
+    color: orange;
+}
